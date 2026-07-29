@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rab Ezra Nacach</title>
+    <description>Shiurim del Rab Ezra Nacach - Tehilim, Moadim, Perashat HaShavua y Musar</description>
+    <link>https://rabmeireliyahu.github.io/nacash</link>
+    <language>es</language>
+    <itunes:author>Rab Ezra Nacach</itunes:author>
+    <itunes:owner>
+      <itunes:name>Rab Ezra Nacach</itunes:name>
+      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/nacash/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>10 mandamientos Clase 5 Rab. Ezra Nacach</title>
+      <description>10 mandamientos Clase 5 Rab. Ezra Nacach</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/10_mandamientos_Clase_5_Rab._Ezra_Nacach.mp3" length="52794306" type="audio/mpeg"/>
+      <guid isPermaLink="false">10_mandamientos_Clase_5_Rab._Ezra_Nacach.mp3</guid>
+      <pubDate>Tue, 02 Jul 2024 16:50:23 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shir Hashirim 1</title>
+      <description>Shir Hashirim 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Shir_Hashirim_1.mp3" length="55074495" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shir_Hashirim_1.mp3</guid>
+      <pubDate>Tue, 16 Jul 2024 16:08:59 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Los portones de la Tefila Parte 1</title>
+      <description>Los portones de la Tefila Parte 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Los_portones_de_la_Tefila_Parte_1.mp3" length="51783025" type="audio/mpeg"/>
+      <guid isPermaLink="false">Los_portones_de_la_Tefila_Parte_1.mp3</guid>
+      <pubDate>Tue, 08 Oct 2024 15:32:29 -0000</pubDate>
+      <itunes:duration>00:54:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Los portones de la Tefila Parte 2</title>
+      <description>Los portones de la Tefila Parte 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Los_portones_de_la_Tefila_Parte_2.mp3" length="40040021" type="audio/mpeg"/>
+      <guid isPermaLink="false">Los_portones_de_la_Tefila_Parte_2.mp3</guid>
+      <pubDate>Tue, 08 Oct 2024 15:36:55 -0000</pubDate>
+      <itunes:duration>00:41:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Los portones de la Tefila Parte 3</title>
+      <description>Los portones de la Tefila Parte 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Los_portones_de_la_Tefila_Parte_3.mp3" length="53336261" type="audio/mpeg"/>
+      <guid isPermaLink="false">Los_portones_de_la_Tefila_Parte_3.mp3</guid>
+      <pubDate>Tue, 08 Oct 2024 15:41:50 -0000</pubDate>
+      <itunes:duration>00:56:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shir Hashirim 2</title>
+      <description>Shir Hashirim 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Shir_Hashirim_2.mp3" length="49446953" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shir_Hashirim_2.mp3</guid>
+      <pubDate>Mon, 28 Oct 2024 16:12:38 -0000</pubDate>
+      <itunes:duration>00:50:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shir Hashirim 3</title>
+      <description>Shir Hashirim 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Shir_Hashirim_3.mp3" length="53305965" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shir_Hashirim_3.mp3</guid>
+      <pubDate>Mon, 28 Oct 2024 16:16:17 -0000</pubDate>
+      <itunes:duration>00:54:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shir Hashirim 4</title>
+      <description>Shir Hashirim 4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Shir_Hashirim_4.mp3" length="56466350" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shir_Hashirim_4.mp3</guid>
+      <pubDate>Tue, 29 Oct 2024 14:42:30 -0000</pubDate>
+      <itunes:duration>00:57:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shir Hashirim 5</title>
+      <description>Shir Hashirim 5</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Shir_Hashirim_5.mp3" length="47981346" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shir_Hashirim_5.mp3</guid>
+      <pubDate>Tue, 29 Oct 2024 14:45:03 -0000</pubDate>
+      <itunes:duration>00:49:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Persona o Ángel Perashat Vayera</title>
+      <description>Persona o Ángel Perashat Vayera</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Persona_o_%C3%81ngel_Perashat_Vayera.mp3" length="54096628" type="audio/mpeg"/>
+      <guid isPermaLink="false">Persona_o_Ángel_Perashat_Vayera.mp3</guid>
+      <pubDate>Fri, 15 Nov 2024 11:49:25 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Las paredes serán testigos</title>
+      <description>Las paredes serán testigos</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Las_paredes_ser%C3%A1n_testigos.mp3" length="44474717" type="audio/mpeg"/>
+      <guid isPermaLink="false">Las_paredes_serán_testigos.mp3</guid>
+      <pubDate>Fri, 15 Nov 2024 11:51:02 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Las Tres Guardias del Cielo !!</title>
+      <description>Las Tres Guardias del Cielo !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Las_Tres_Guardias_del_Cielo_%21%21.mp3" length="52053768" type="audio/mpeg"/>
+      <guid isPermaLink="false">Las_Tres_Guardias_del_Cielo_!!.mp3</guid>
+      <pubDate>Fri, 15 Nov 2024 11:52:56 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Como enfrentar el mal !!</title>
+      <description>Como enfrentar el mal !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Como_enfrentar_el_mal_%21%21.mp3" length="54698846" type="audio/mpeg"/>
+      <guid isPermaLink="false">Como_enfrentar_el_mal_!!.mp3</guid>
+      <pubDate>Wed, 08 Jan 2025 12:16:59 -0000</pubDate>
+      <itunes:duration>00:58:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Difícil de enojar Fácil de reconciliar !!</title>
+      <description>Difícil de enojar Fácil de reconciliar !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Dif%C3%ADcil_de_enojar_F%C3%A1cil_de_reconciliar_%21%21.mp3" length="56752622" type="audio/mpeg"/>
+      <guid isPermaLink="false">Difícil_de_enojar_Fácil_de_reconciliar_!!.mp3</guid>
+      <pubDate>Wed, 08 Jan 2025 12:20:12 -0000</pubDate>
+      <itunes:duration>01:00:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>El éxito de tus hijos depende de ti !!</title>
+      <description>El éxito de tus hijos depende de ti !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/El_%C3%A9xito_de_tus_hijos_depende_de_ti_%21%21.mp3" length="50209742" type="audio/mpeg"/>
+      <guid isPermaLink="false">El_éxito_de_tus_hijos_depende_de_ti_!!.mp3</guid>
+      <pubDate>Wed, 08 Jan 2025 12:28:24 -0000</pubDate>
+      <itunes:duration>00:54:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>No evadir responsabilidades en los problemas</title>
+      <description>No evadir responsabilidades en los problemas</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/No_evadir_responsabilidades_en_los_problemas.mp3" length="49743398" type="audio/mpeg"/>
+      <guid isPermaLink="false">No_evadir_responsabilidades_en_los_problemas.mp3</guid>
+      <pubDate>Fri, 10 Jan 2025 15:55:18 -0000</pubDate>
+      <itunes:duration>00:53:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pensar Imaginar y Crear!!</title>
+      <description>Pensar Imaginar y Crear!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Pensar_Imaginar_y_Crear%21%21.mp3" length="46772798" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pensar_Imaginar_y_Crear!!.mp3</guid>
+      <pubDate>Fri, 17 Jan 2025 11:50:30 -0000</pubDate>
+      <itunes:duration>00:49:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Como comienza el Antisemitismo !!</title>
+      <description>Como comienza el Antisemitismo !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Como_comienza_el_Antisemitismo_%21%21.mp3" length="56513500" type="audio/mpeg"/>
+      <guid isPermaLink="false">Como_comienza_el_Antisemitismo_!!.mp3</guid>
+      <pubDate>Thu, 06 Feb 2025 23:08:37 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Introducción al Sefer Tehilim</title>
+      <description>Introducción al Sefer Tehilim</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Introducci%C3%B3n_al_Sefer_Tehilim.mp3" length="51449899" type="audio/mpeg"/>
+      <guid isPermaLink="false">Introducción_al_Sefer_Tehilim.mp3</guid>
+      <pubDate>Thu, 06 Feb 2025 23:09:35 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capítulo 1- El Verdadero Bienaventurado!!</title>
+      <description>Tehilim Capítulo 1- El Verdadero Bienaventurado!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Cap%C3%ADtulo_1-_El_Verdadero_Bienaventurado%21%21.mp3" length="50814488" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capítulo_1-_El_Verdadero_Bienaventurado!!.mp3</guid>
+      <pubDate>Thu, 06 Feb 2025 23:11:16 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capítulo 2 Cuéntale a D-os tus planes para que de ria!!</title>
+      <description>Tehilim Capítulo 2 Cuéntale a D-os tus planes para que de ria!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Cap%C3%ADtulo_2_Cu%C3%A9ntale_a_D-os_tus_planes_para_que_de_ria%21%21.mp3" length="50981194" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capítulo_2_Cuéntale_a_D-os_tus_planes_para_que_de_ria!!.mp3</guid>
+      <pubDate>Thu, 06 Feb 2025 23:13:02 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 3 y 4-Fe o confianza !!</title>
+      <description>Tehilim 3 y 4-Fe o confianza !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_3_y_4-Fe_o_confianza_%21%21.mp3" length="49288357" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_3_y_4-Fe_o_confianza_!!.mp3</guid>
+      <pubDate>Sun, 16 Feb 2025 22:49:40 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capítulo 6 La llave de la alegría y el éxito !!</title>
+      <description>Tehilim Capítulo 6 La llave de la alegría y el éxito !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Cap%C3%ADtulo_6_La_llave_de_la_alegr%C3%ADa_y_el_%C3%A9xito_%21%21.mp3" length="53448638" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capítulo_6_La_llave_de_la_alegría_y_el_éxito_!!.mp3</guid>
+      <pubDate>Thu, 27 Feb 2025 14:45:15 -0000</pubDate>
+      <itunes:duration>00:55:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capitulo 7 Cualidad de Reyes</title>
+      <description>Tehilim Capitulo 7 Cualidad de Reyes</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Capitulo_7_Cualidad_de_Reyes.mp3" length="51860174" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capitulo_7_Cualidad_de_Reyes.mp3</guid>
+      <pubDate>Tue, 11 Mar 2025 13:47:14 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La mizva de la comida ( seuda ) en purim</title>
+      <description>La mizva de la comida ( seuda ) en purim</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/La_mizva_de_la_comida_%28_seuda_%29_en_purim.mp3" length="3435594" type="audio/mpeg"/>
+      <guid isPermaLink="false">La_mizva_de_la_comida_(_seuda_)_en_purim.mp3</guid>
+      <pubDate>Thu, 13 Mar 2025 13:23:57 -0000</pubDate>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La mizva de la comida ( seuda ) en purim 2</title>
+      <description>La mizva de la comida ( seuda ) en purim 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/La_mizva_de_la_comida_%28_seuda_%29_en_purim_2.mp3" length="3426570" type="audio/mpeg"/>
+      <guid isPermaLink="false">La_mizva_de_la_comida_(_seuda_)_en_purim_2.mp3</guid>
+      <pubDate>Thu, 13 Mar 2025 13:26:41 -0000</pubDate>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capítulo 8 !!! Querer a HASHEM</title>
+      <description>Tehilim Capítulo 8 !!! Querer a HASHEM</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Cap%C3%ADtulo_8_%21%21%21_Querer_a_HASHEM.mp3" length="48691362" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capítulo_8_!!!_Querer_a_HASHEM.mp3</guid>
+      <pubDate>Thu, 13 Mar 2025 15:17:28 -0000</pubDate>
+      <itunes:duration>00:50:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 9 Valorando la vida misma !!</title>
+      <description>Tehilim capítulo 9 Valorando la vida misma !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_9_Valorando_la_vida_misma_%21%21.mp3" length="49831334" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_9_Valorando_la_vida_misma_!!.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:45:56 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La importancia del Kasher para Pesah 1</title>
+      <description>La importancia del Kasher para Pesah 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/La_importancia_del_Kasher_para_Pesah_1.mp3" length="3021514" type="audio/mpeg"/>
+      <guid isPermaLink="false">La_importancia_del_Kasher_para_Pesah_1.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:47:09 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La importancia del Kasher para Pesah 2</title>
+      <description>La importancia del Kasher para Pesah 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/La_importancia_del_Kasher_para_Pesah_2.mp3" length="2501419" type="audio/mpeg"/>
+      <guid isPermaLink="false">La_importancia_del_Kasher_para_Pesah_2.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:47:45 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Medicamentos en Pesah, Importante!!</title>
+      <description>Medicamentos en Pesah, Importante!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Medicamentos_en_Pesah%2C_Importante%21%21.mp3" length="5972192" type="audio/mpeg"/>
+      <guid isPermaLink="false">Medicamentos_en_Pesah,_Importante!!.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:48:53 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Comida para mascotas durante Pesah</title>
+      <description>Comida para mascotas durante Pesah</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Comida_para_mascotas_durante_Pesah.mp3" length="2985839" type="audio/mpeg"/>
+      <guid isPermaLink="false">Comida_para_mascotas_durante_Pesah.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:49:44 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>3 cosas importantes a cuidarse en Pesah</title>
+      <description>3 cosas importantes a cuidarse en Pesah</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/3_cosas_importantes_a_cuidarse_en_Pesah.mp3" length="2994089" type="audio/mpeg"/>
+      <guid isPermaLink="false">3_cosas_importantes_a_cuidarse_en_Pesah.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:50:22 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuidándose en alimentos de Pesah</title>
+      <description>Cuidándose en alimentos de Pesah</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Cuid%C3%A1ndose_en_alimentos_de_Pesah.mp3" length="3654099" type="audio/mpeg"/>
+      <guid isPermaLink="false">Cuidándose_en_alimentos_de_Pesah.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:52:25 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bircat Ilanot !!</title>
+      <description>Bircat Ilanot !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Bircat_Ilanot_%21%21.mp3" length="1709156" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bircat_Ilanot_!!.mp3</guid>
+      <pubDate>Wed, 26 Mar 2025 14:53:16 -0000</pubDate>
+      <itunes:duration>00:00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 10 Verdaderamente Auténtico</title>
+      <description>Tehilim capítulo 10 Verdaderamente Auténtico</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_10_Verdaderamente_Aut%C3%A9ntico.mp3" length="50763808" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_10_Verdaderamente_Auténtico.mp3</guid>
+      <pubDate>Mon, 31 Mar 2025 09:14:15 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuarto de la sirvienta en Pesah !!</title>
+      <description>Cuarto de la sirvienta en Pesah !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Cuarto_de_la_sirvienta_en_Pesah_%21%21.mp3" length="2991222" type="audio/mpeg"/>
+      <guid isPermaLink="false">Cuarto_de_la_sirvienta_en_Pesah_!!.mp3</guid>
+      <pubDate>Mon, 31 Mar 2025 15:31:08 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ayuno de Bejorot y Bedika este año cuando</title>
+      <description>Ayuno de Bejorot y Bedika este año cuando</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Ayuno_de_Bejorot_y_Bedika_este_a%C3%B1o_cuando.mp3" length="3955081" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ayuno_de_Bejorot_y_Bedika_este_año_cuando.mp3</guid>
+      <pubDate>Mon, 31 Mar 2025 15:31:47 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La búsqueda del Jametz 1</title>
+      <description>La búsqueda del Jametz 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/La_b%C3%BAsqueda_del_Jametz_1.mp3" length="5010757" type="audio/mpeg"/>
+      <guid isPermaLink="false">La_búsqueda_del_Jametz_1.mp3</guid>
+      <pubDate>Wed, 02 Apr 2025 15:47:38 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Anular el Jametz</title>
+      <description>Anular el Jametz</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Anular_el_Jametz.mp3" length="3298671" type="audio/mpeg"/>
+      <guid isPermaLink="false">Anular_el_Jametz.mp3</guid>
+      <pubDate>Wed, 02 Apr 2025 15:48:31 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Venta del Jametz</title>
+      <description>Venta del Jametz</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Venta_del_Jametz.mp3" length="5460523" type="audio/mpeg"/>
+      <guid isPermaLink="false">Venta_del_Jametz.mp3</guid>
+      <pubDate>Wed, 02 Apr 2025 15:49:04 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 11y 12 !! El peligro del chisme</title>
+      <description>Tehilim capítulo 11y 12 !! El peligro del chisme</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_11y_12_%21%21_El_peligro_del_chisme.mp3" length="52662889" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_11y_12_!!_El_peligro_del_chisme.mp3</guid>
+      <pubDate>Mon, 07 Apr 2025 13:01:38 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 13-14-15 Y Lag Baomer !!</title>
+      <description>Tehilim capítulo 13-14-15 Y Lag Baomer !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_13-14-15_Y_Lag_Baomer_%21%21.mp3" length="52356786" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_13-14-15_Y_Lag_Baomer_!!.mp3</guid>
+      <pubDate>Mon, 19 May 2025 17:44:15 -0000</pubDate>
+      <itunes:duration>00:55:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 16-17 La verdadera Humildad</title>
+      <description>Tehilim capítulo 16-17 La verdadera Humildad</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_16-17_La_verdadera_Humildad.mp3" length="52322996" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_16-17_La_verdadera_Humildad.mp3</guid>
+      <pubDate>Wed, 04 Jun 2025 15:35:05 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capítulo 18La Llave al éxito !!</title>
+      <description>Tehilim Capítulo 18La Llave al éxito !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Cap%C3%ADtulo_18La_Llave_al_%C3%A9xito_%21%21.mp3" length="49286172" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capítulo_18La_Llave_al_éxito_!!.mp3</guid>
+      <pubDate>Wed, 04 Jun 2025 15:36:51 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capítulo 19-20 La Grandeza de la Torá</title>
+      <description>Capítulo 19-20 La Grandeza de la Torá</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Cap%C3%ADtulo_19-20_La_Grandeza_de_la_Tor%C3%A1.mp3" length="48387878" type="audio/mpeg"/>
+      <guid isPermaLink="false">Capítulo_19-20_La_Grandeza_de_la_Torá.mp3</guid>
+      <pubDate>Mon, 09 Jun 2025 14:39:59 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capítulo 21-22 Primero HASHEM !!!</title>
+      <description>Capítulo 21-22 Primero HASHEM !!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Cap%C3%ADtulo_21-22_Primero_HASHEM_%21%21%21.mp3" length="49220154" type="audio/mpeg"/>
+      <guid isPermaLink="false">Capítulo_21-22_Primero_HASHEM_!!!.mp3</guid>
+      <pubDate>Thu, 19 Jun 2025 16:05:39 -0000</pubDate>
+      <itunes:duration>00:51:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 23 Estar Bien nutrido Material y espiritual mente !!!</title>
+      <description>Tehilim capítulo 23 Estar Bien nutrido Material y espiritual mente !!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_23_Estar_Bien_nutrido_Material_y_espiritual_mente_%21%21%21.mp3" length="54303033" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_23_Estar_Bien_nutrido_Material_y_espiritual_mente_!!!.mp3</guid>
+      <pubDate>Fri, 27 Jun 2025 02:00:53 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 25 La verdad florece de la tierra</title>
+      <description>Tehilim capítulo 25 La verdad florece de la tierra</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_25_La_verdad_florece_de_la_tierra.mp3" length="50175817" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_25_La_verdad_florece_de_la_tierra.mp3</guid>
+      <pubDate>Fri, 11 Jul 2025 07:20:14 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capítulo 26 Tehilim Y segunda clase de Tomer Devora</title>
+      <description>Capítulo 26 Tehilim Y segunda clase de Tomer Devora</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Cap%C3%ADtulo_26_Tehilim_Y_segunda_clase_de_Tomer_Devora.mp3" length="58116491" type="audio/mpeg"/>
+      <guid isPermaLink="false">Capítulo_26_Tehilim_Y_segunda_clase_de_Tomer_Devora.mp3</guid>
+      <pubDate>Thu, 11 Sep 2025 20:01:32 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capítulo 27…y su relación con estos días</title>
+      <description>Tehilim capítulo 27…y su relación con estos días</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_cap%C3%ADtulo_27%E2%80%A6y_su_relaci%C3%B3n_con_estos_d%C3%ADas.mp3" length="54886686" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capítulo_27…y_su_relación_con_estos_días.mp3</guid>
+      <pubDate>Fri, 12 Sep 2025 00:18:04 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capitulo 28 Preparación para Kipur!!</title>
+      <description>Capitulo 28 Preparación para Kipur!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Capitulo_28_Preparaci%C3%B3n_para_Kipur%21%21.mp3" length="54460096" type="audio/mpeg"/>
+      <guid isPermaLink="false">Capitulo_28_Preparación_para_Kipur!!.mp3</guid>
+      <pubDate>Thu, 25 Sep 2025 15:57:36 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Capítulo 28 Preparación para Kipur !!!</title>
+      <description>Capítulo 28 Preparación para Kipur !!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Cap%C3%ADtulo_28_Preparaci%C3%B3n_para_Kipur_%21%21%21.mp3" length="54460096" type="audio/mpeg"/>
+      <guid isPermaLink="false">Capítulo_28_Preparación_para_Kipur_!!!.mp3</guid>
+      <pubDate>Thu, 16 Oct 2025 23:15:35 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim Capítulo 29 Que te llevas de las fiestas !!</title>
+      <description>Tehilim Capítulo 29 Que te llevas de las fiestas !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_Cap%C3%ADtulo_29_Que_te_llevas_de_las_fiestas_%21%21.mp3" length="42035158" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_Capítulo_29_Que_te_llevas_de_las_fiestas_!!.mp3</guid>
+      <pubDate>Thu, 16 Oct 2025 23:17:09 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Te has visto en el espejo</title>
+      <description>Te has visto en el espejo</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Te_has_visto_en_el_espejo.mp3" length="45305732" type="audio/mpeg"/>
+      <guid isPermaLink="false">Te_has_visto_en_el_espejo.mp3</guid>
+      <pubDate>Thu, 06 Nov 2025 15:32:27 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capitulo 30 No solo agradecer Sino principalmente Corresponder</title>
+      <description>Tehilim capitulo 30 No solo agradecer Sino principalmente Corresponder</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_capitulo_30_No_solo_agradecer_Sino_principalmente_Corresponder.mp3" length="55965205" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capitulo_30_No_solo_agradecer_Sino_principalmente_Corresponder.mp3</guid>
+      <pubDate>Thu, 13 Nov 2025 14:13:51 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capitulo 31</title>
+      <description>Tehilim capitulo 31</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_capitulo_31.mp3" length="49697717" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capitulo_31.mp3</guid>
+      <pubDate>Thu, 04 Dec 2025 15:17:25 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capitulo 32</title>
+      <description>Tehilim capitulo 32</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_capitulo_32.mp3" length="51184354" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capitulo_32.mp3</guid>
+      <pubDate>Thu, 04 Dec 2025 15:18:29 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim capitulo 33</title>
+      <description>Tehilim capitulo 33</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_capitulo_33.mp3" length="48742811" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_capitulo_33.mp3</guid>
+      <pubDate>Thu, 04 Dec 2025 15:19:30 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 34</title>
+      <description>Tehilim 34</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_34.mp3" length="57197264" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_34.mp3</guid>
+      <pubDate>Sun, 21 Dec 2025 09:59:36 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 35 y 36</title>
+      <description>Tehilim 35 y 36</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_35_y_36.mp3" length="54265809" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_35_y_36.mp3</guid>
+      <pubDate>Mon, 12 Jan 2026 16:10:26 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 37</title>
+      <description>Tehilim 37</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_37.mp3" length="47818530" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_37.mp3</guid>
+      <pubDate>Mon, 12 Jan 2026 16:11:03 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Perashat vaera</title>
+      <description>Perashat vaera</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Perashat_vaera.mp3" length="48996986" type="audio/mpeg"/>
+      <guid isPermaLink="false">Perashat_vaera.mp3</guid>
+      <pubDate>Mon, 12 Jan 2026 16:11:40 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 38</title>
+      <description>Tehilim 38</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_38.mp3" length="48943215" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_38.mp3</guid>
+      <pubDate>Sun, 18 Jan 2026 23:20:45 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 39-40-41</title>
+      <description>Tehilim 39-40-41</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_39-40-41.mp3" length="47985309" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_39-40-41.mp3</guid>
+      <pubDate>Fri, 23 Jan 2026 12:24:13 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 42 43 44</title>
+      <description>Tehilim 42 43 44</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_42_43_44.mp3" length="49177986" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_42_43_44.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 14:56:26 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 45-46-47</title>
+      <description>Tehilim 45-46-47</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_45-46-47.mp3" length="52314723" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_45-46-47.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 14:58:54 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tehilim 48-49-50</title>
+      <description>Tehilim 48-49-50</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Tehilim_48-49-50.mp3" length="46419022" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tehilim_48-49-50.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:04 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Purim entre lineas 1</title>
+      <description>Purim entre lineas 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Purim_entre_lineas_1.mp3" length="50535868" type="audio/mpeg"/>
+      <guid isPermaLink="false">Purim_entre_lineas_1.mp3</guid>
+      <pubDate>Thu, 19 Feb 2026 15:15:06 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Purim entre lineas 2</title>
+      <description>Purim entre lineas 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Purim_entre_lineas_2.mp3" length="51981929" type="audio/mpeg"/>
+      <guid isPermaLink="false">Purim_entre_lineas_2.mp3</guid>
+      <pubDate>Fri, 06 Mar 2026 10:24:39 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Conectando entrePurim y Pesah.</title>
+      <description>Conectando entrePurim y Pesah.</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Conectando_entrePurim_y_Pesah..mp3" length="51056002" type="audio/mpeg"/>
+      <guid isPermaLink="false">Conectando_entrePurim_y_Pesah..mp3</guid>
+      <pubDate>Fri, 06 Mar 2026 10:25:47 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Estas listo para la noche del Seder !</title>
+      <description>Estas listo para la noche del Seder !</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Estas_listo_para_la_noche_del_Seder_%21.mp3" length="47427986" type="audio/mpeg"/>
+      <guid isPermaLink="false">Estas_listo_para_la_noche_del_Seder_!.mp3</guid>
+      <pubDate>Thu, 12 Mar 2026 16:12:03 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Los 4 Hijos la Ruptura Generacional</title>
+      <description>Los 4 Hijos la Ruptura Generacional</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Los_4_Hijos_la_Ruptura_Generacional.mp3" length="47593662" type="audio/mpeg"/>
+      <guid isPermaLink="false">Los_4_Hijos_la_Ruptura_Generacional.mp3</guid>
+      <pubDate>Thu, 19 Mar 2026 15:17:32 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>El secreto de la keara de Pesah !!!!</title>
+      <description>El secreto de la keara de Pesah !!!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/El_secreto_de_la_keara_de_Pesah_%21%21%21%21.mp3" length="47219657" type="audio/mpeg"/>
+      <guid isPermaLink="false">El_secreto_de_la_keara_de_Pesah_!!!!.mp3</guid>
+      <pubDate>Thu, 26 Mar 2026 15:56:29 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Conectando entre Pesaj y Shabuot</title>
+      <description>Conectando entre Pesaj y Shabuot</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Conectando_entre_Pesaj_y_Shabuot.mp3" length="50127279" type="audio/mpeg"/>
+      <guid isPermaLink="false">Conectando_entre_Pesaj_y_Shabuot.mp3</guid>
+      <pubDate>Thu, 16 Apr 2026 15:54:09 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sefirat haomer de estrellado a estrella</title>
+      <description>Sefirat haomer de estrellado a estrella</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Sefirat_haomer_de_estrellado_a_estrella.mp3" length="53163388" type="audio/mpeg"/>
+      <guid isPermaLink="false">Sefirat_haomer_de_estrellado_a_estrella.mp3</guid>
+      <pubDate>Thu, 23 Apr 2026 16:28:30 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pesaj Sheni y Lag Baomer- Voluntad genera realidad.</title>
+      <description>Pesaj Sheni y Lag Baomer- Voluntad genera realidad.</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Pesaj_Sheni_y_Lag_Baomer-_Voluntad_genera_realidad..mp3" length="46100218" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pesaj_Sheni_y_Lag_Baomer-_Voluntad_genera_realidad..mp3</guid>
+      <pubDate>Fri, 01 May 2026 00:51:22 -0000</pubDate>
+      <itunes:duration>01:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Meguilat Ruth 1-La grandeza de nuestras mujeres</title>
+      <description>Meguilat Ruth 1-La grandeza de nuestras mujeres</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Meguilat_Ruth_1-La_grandeza_de_nuestras_mujeres.mp3" length="48230827" type="audio/mpeg"/>
+      <guid isPermaLink="false">Meguilat_Ruth_1-La_grandeza_de_nuestras_mujeres.mp3</guid>
+      <pubDate>Thu, 07 May 2026 15:30:41 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Megilat Rut 2 El Esfuerzo se logra Cuando el Pago se Ilumina</title>
+      <description>Megilat Rut 2 El Esfuerzo se logra Cuando el Pago se Ilumina</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Megilat_Rut_2_El_Esfuerzo_se_logra_Cuando_el_Pago_se_Ilumina.mp3" length="50882029" type="audio/mpeg"/>
+      <guid isPermaLink="false">Megilat_Rut_2_El_Esfuerzo_se_logra_Cuando_el_Pago_se_Ilumina.mp3</guid>
+      <pubDate>Thu, 14 May 2026 16:46:25 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>El significado del nombre Sinai</title>
+      <description>El significado del nombre Sinai</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/El_significado_del_nombre_Sinai.mp3" length="52046941" type="audio/mpeg"/>
+      <guid isPermaLink="false">El_significado_del_nombre_Sinai.mp3</guid>
+      <pubDate>Wed, 03 Jun 2026 15:36:21 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Amoroso o negociante</title>
+      <description>Amoroso o negociante</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Amoroso_o_negociante.mp3" length="43278107" type="audio/mpeg"/>
+      <guid isPermaLink="false">Amoroso_o_negociante.mp3</guid>
+      <pubDate>Fri, 05 Jun 2026 15:30:27 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Otra vez Lashon Harra</title>
+      <description>Otra vez Lashon Harra</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Otra_vez_Lashon_Harra.mp3" length="51330870" type="audio/mpeg"/>
+      <guid isPermaLink="false">Otra_vez_Lashon_Harra.mp3</guid>
+      <pubDate>Thu, 11 Jun 2026 17:47:35 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Aprendiendo de los niños el א-ב</title>
+      <description>Aprendiendo de los niños el א-ב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Aprendiendo_de_los_ni%C3%B1os_el_%D7%90-%D7%91.mp3" length="56080757" type="audio/mpeg"/>
+      <guid isPermaLink="false">Aprendiendo_de_los_niños_el_א-ב.mp3</guid>
+      <pubDate>Thu, 18 Jun 2026 16:32:24 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Aprendiendo de los niños el א-ב (parte 2)</title>
+      <description>Aprendiendo de los niños el א-ב (parte 2)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Aprendiendo_de_los_ni%C3%B1os_el_%D7%90-%D7%91_%28parte_2%29.mp3" length="52026288" type="audio/mpeg"/>
+      <guid isPermaLink="false">Aprendiendo_de_los_niños_el_א-ב_(parte_2).mp3</guid>
+      <pubDate>Mon, 29 Jun 2026 15:42:43 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
