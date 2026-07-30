@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Rab Ezra Nacach</title>
-    <description>Shiurim del Rab Ezra Nacach - Tehilim, Moadim, Perashat HaShavua y Musar</description>
+    <description>Shiurim de Torá en español con el Rab Ezra Nacach. Tehilim capítulo por capítulo, halajot de Pesaj y Purim, Meguilat Rut, Shir HaShirim, emuná y musar. Clases completas - Otzar HaTorah.</description>
+    <itunes:summary>Shiurim de Torá en español con el Rab Ezra Nacach. Tehilim capítulo por capítulo, halajot de Pesaj y Purim, Meguilat Rut, Shir HaShirim, emuná y musar. Clases completas - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/nacash</link>
     <language>es</language>
     <itunes:author>Rab Ezra Nacach</itunes:author>
