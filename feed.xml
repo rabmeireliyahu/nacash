@@ -1075,5 +1075,14 @@
       <itunes:duration>00:06:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Concentración en las Berajot !!!</title>
+      <description>Rab Ezra Nacach · Concentración en las Berajot !!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Concentraci%C3%B3n%20en%20las%20Berajot%20%21%21%21.mp3" length="3810711" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Concentración en las Berajot !!!.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:38 -0000</pubDate>
+      <itunes:duration>00:03:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
