@@ -1084,5 +1084,14 @@
       <itunes:duration>00:03:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Como poner el tefilin de la mano</title>
+      <description>Rab Ezra Nacach · Como poner el tefilin de la mano</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Como%20poner%20el%20tefilin%20de%20la%20mano.mp3" length="4310679" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Como poner el tefilin de la mano.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:17:07 -0000</pubDate>
+      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
