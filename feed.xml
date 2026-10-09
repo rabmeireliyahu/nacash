@@ -1093,5 +1093,14 @@
       <itunes:duration>00:04:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Lo importancia del Jesed !!!!</title>
+      <description>Rab Ezra Nacach · Lo importancia del Jesed !!!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Lo%20importancia%20del%20Jesed%20%21%21%21%21.mp3" length="52041111" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Lo importancia del Jesed !!!!.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 18:49:50 -0000</pubDate>
+      <itunes:duration>00:54:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
