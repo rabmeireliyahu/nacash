@@ -1120,5 +1120,14 @@
       <itunes:duration>00:03:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Tefila 3</title>
+      <description>Rab Ezra Nacach · Tefila 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Tefila%203.mp3" length="2956311" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Tefila 3.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 17:57:43 -0000</pubDate>
+      <itunes:duration>00:03:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
