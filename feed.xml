@@ -1156,5 +1156,14 @@
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Cuando pedir Refua shelema en la Tefila</title>
+      <description>Rab Ezra Nacach · Cuando pedir Refua shelema en la Tefila</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Cuando%20pedir%20Refua%20shelema%20en%20la%20Tefila.mp3" length="3454359" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Cuando pedir Refua shelema en la Tefila.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 19:17:22 -0000</pubDate>
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
