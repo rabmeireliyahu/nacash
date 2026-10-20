@@ -1165,5 +1165,14 @@
       <itunes:duration>00:03:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Cohanim en un Hospital</title>
+      <description>Rab Ezra Nacach · Cohanim en un Hospital</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Cohanim%20en%20un%20Hospital.mp3" length="3283863" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Cohanim en un Hospital.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 08:26:58 -0000</pubDate>
+      <itunes:duration>00:03:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
