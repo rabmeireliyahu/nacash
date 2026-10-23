@@ -1183,5 +1183,23 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Cuidar la salud</title>
+      <description>Rab Ezra Nacach · Cuidar la salud</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Cuidar%20la%20salud.mp3" length="3203223" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Cuidar la salud.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 22:45:17 -0000</pubDate>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Ezra Nacach · Netila para comer pan</title>
+      <description>Rab Ezra Nacach · Netila para comer pan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Netila%20para%20comer%20pan.mp3" length="3793047" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Netila para comer pan.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 22:45:23 -0000</pubDate>
+      <itunes:duration>00:03:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
