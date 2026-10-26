@@ -1201,5 +1201,14 @@
       <itunes:duration>00:03:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Netila para comer quesadillas</title>
+      <description>Rab Ezra Nacach · Netila para comer quesadillas</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Netila%20para%20comer%20quesadillas.mp3" length="3466647" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Netila para comer quesadillas.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 07:32:14 -0000</pubDate>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
