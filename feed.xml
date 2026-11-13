@@ -1228,5 +1228,14 @@
       <itunes:duration>00:52:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Shiur · Rab Ezra Nacach 12-11-2026</title>
+      <description>Shiur · Rab Ezra Nacach 12-11-2026</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Shiur%20%C2%B7%20Rab%20Ezra%20Nacach%2012-11-2026.mp3" length="2509646" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shiur · Rab Ezra Nacach 12-11-2026.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:47 -0000</pubDate>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
