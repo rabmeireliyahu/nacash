@@ -1246,5 +1246,14 @@
       <itunes:duration>00:02:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · No despreciar la comida</title>
+      <description>Rab Ezra Nacach · No despreciar la comida</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20No%20despreciar%20la%20comida.mp3" length="2900247" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · No despreciar la comida.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 10:54:45 -0000</pubDate>
+      <itunes:duration>00:03:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
