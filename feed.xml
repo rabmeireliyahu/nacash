@@ -1255,5 +1255,14 @@
       <itunes:duration>00:03:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Cómo contrarrestar la fuerza de Ezav !!</title>
+      <description>Rab Ezra Nacach · Cómo contrarrestar la fuerza de Ezav !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20C%C3%B3mo%20contrarrestar%20la%20fuerza%20de%20Ezav%20%21%21.mp3" length="47026070" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Cómo contrarrestar la fuerza de Ezav !!.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 11:06:42 -0000</pubDate>
+      <itunes:duration>00:48:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
