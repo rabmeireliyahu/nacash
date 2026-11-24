@@ -1273,5 +1273,14 @@
       <itunes:duration>00:04:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Janucá 2</title>
+      <description>Rab Ezra Nacach · Janucá 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Januc%C3%A1%202.mp3" length="1911446" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Janucá 2.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 22:47:18 -0000</pubDate>
+      <itunes:duration>00:01:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
