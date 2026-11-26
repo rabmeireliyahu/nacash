@@ -1282,5 +1282,14 @@
       <itunes:duration>00:01:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · La sociedad con Ezav Buena o mala</title>
+      <description>Rab Ezra Nacach · La sociedad con Ezav Buena o mala</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20La%20sociedad%20con%20Ezav%20Buena%20o%20mala.mp3" length="47899670" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · La sociedad con Ezav Buena o mala.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 13:45:21 -0000</pubDate>
+      <itunes:duration>00:49:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
