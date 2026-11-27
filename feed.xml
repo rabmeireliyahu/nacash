@@ -1291,5 +1291,14 @@
       <itunes:duration>00:49:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Ezra Nacach · Halajot Janucá 3</title>
+      <description>Rab Ezra Nacach · Halajot Janucá 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/shiurim-rab-ezra-nacach/Rab%20Ezra%20Nacach%20%C2%B7%20Halajot%20Januc%C3%A1%203.mp3" length="3545750" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Ezra Nacach · Halajot Janucá 3.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 11:36:11 -0000</pubDate>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
